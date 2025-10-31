@@ -1,21 +1,22 @@
-# Happy--birthday--Bliss
-A little digital surprise for someone very special ,Made with love for Jessica Bliss🌷
-# 💖 Happy Birthday Jessica Bliss 🎂
+# 💖 Happy Birthday, Jessica Bliss 🎂
 
-A simple yet heartfelt birthday web page created with love 💕
+This isn’t just a webpage — it’s something straight from my heart to yours.  
+I may not have wrapped it in fancy paper, but I made it with love, care, and a big smile just thinking about you. 💞  
 
-🌸 **Made by:** Your special someone  
-✨ **Purpose:** To make you smile and remind you how loved you are  
+You deserve to be celebrated in every way possible, Jessica — for your kindness, your beauty, your laughter, and the way you make everything brighter.  
+This little page is my way of saying **thank you for being you**. 🌷  
+
+---
+
+### 💝 What It Means
+Every animation, color, and line of text carries a piece of how much I care about you.  
+When the confetti falls, I hope it feels like a reminder that you’re loved — not just today, but always.  
 
 ---
 
-### 🎉 Features
-- Cute birthday message  
-- Confetti animation  
-- Sweet reveal button  
-- 100% love-powered 💞  
-
----
+### 🌹 From Me to You
+Jessica, I hope this year brings you everything you’ve been wishing for — peace, laughter, love, and success.  
+No matter how life goes, always remember how special you are to me. 
 
 **Enjoy your day, Jessica!**  
 You deserve all the happiness in the world. 🌷
